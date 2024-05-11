@@ -24,4 +24,4 @@ async def on_message(message):
         else:
             await message.channel.send('Incorrecto. Intenta con otro elemento.')
 
-client.run('MTIyODc1MDUxOTk4MDUyMzUyMQ.GbnQBi.2gvc1d0bPhr4PtwVWlrUVEOltEwIgNeiOhi2G8')
+client.run('')
